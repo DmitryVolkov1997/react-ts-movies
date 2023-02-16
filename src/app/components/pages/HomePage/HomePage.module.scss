@@ -1,0 +1,15 @@
+.homePage {
+  @apply font-sans font-medium text-3xl w-full;
+}
+
+.row {
+  @apply flex flex-col items-center w-full;
+}
+
+.spinner {
+  @apply mt-20;
+}
+
+.box {
+  @apply flex mt-5;
+}
